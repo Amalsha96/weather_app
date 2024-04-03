@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my first mern app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "testone": "nodemon tests/item_route/deleteItem.js",
+    "test": "node ./node_modules/mocha/bin/mocha",
+    "dev": "nodemon server.js"
+  },
+  "author": "user",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}

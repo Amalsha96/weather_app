@@ -1,0 +1,178 @@
+[
+    {
+      "district": "Colombo",
+      "condition": "Sunny",
+      "temp": 30,
+      "humidity": 55,
+      "pressure": 1010
+    },
+    {
+      "district": "Gampaha",
+      "condition": "Cloudy",
+      "temp": 28,
+      "humidity": 60,
+      "pressure": 1008
+    },
+    {
+      "district": "Kalutara",
+      "condition": "Rainy",
+      "temp": 25,
+      "humidity": 70,
+      "pressure": 1005
+    },
+    {
+      "district": "Kandy",
+      "condition": "Sunny",
+      "temp": 32,
+      "humidity": 50,
+      "pressure": 1012
+    },
+    {
+      "district": "Matale",
+      "condition": "Cloudy",
+      "temp": 29,
+      "humidity": 65,
+      "pressure": 1010
+    },
+    {
+      "district": "Nuwara Eliya",
+      "condition": "Rainy",
+      "temp": 27,
+      "humidity": 75,
+      "pressure": 1003
+    },
+    {
+      "district": "Galle",
+      "condition": "Sunny",
+      "temp": 30,
+      "humidity": 55,
+      "pressure": 1010
+    },
+    {
+      "district": "Matara",
+      "condition": "Cloudy",
+      "temp": 28,
+      "humidity": 60,
+      "pressure": 1008
+    },
+    {
+      "district": "Hambantota",
+      "condition": "Rainy",
+      "temp": 25,
+      "humidity": 70,
+      "pressure": 1005
+    },
+    {
+      "district": "Jaffna",
+      "condition": "Sunny",
+      "temp": 32,
+      "humidity": 50,
+      "pressure": 1012
+    },
+    {
+      "district": "Mannar",
+      "condition": "Cloudy",
+      "temp": 29,
+      "humidity": 65,
+      "pressure": 1010
+    },
+    {
+      "district": "Vavuniya",
+      "condition": "Rainy",
+      "temp": 27,
+      "humidity": 75,
+      "pressure": 1003
+    },
+    {
+      "district": "Mullaitivu",
+      "condition": "Sunny",
+      "temp": 30,
+      "humidity": 55,
+      "pressure": 1010
+    },
+    {
+      "district": "Kilinochchi",
+      "condition": "Cloudy",
+      "temp": 28,
+      "humidity": 60,
+      "pressure": 1008
+    },
+    {
+      "district": "Batticaloa",
+      "condition": "Rainy",
+      "temp": 25,
+      "humidity": 70,
+      "pressure": 1005
+    },
+    {
+      "district": "Ampara",
+      "condition": "Sunny",
+      "temp": 32,
+      "humidity": 50,
+      "pressure": 1012
+    },
+    {
+      "district": "Trincomalee",
+      "condition": "Cloudy",
+      "temp": 29,
+      "humidity": 65,
+      "pressure": 1010
+    },
+    {
+      "district": "Kurunegala",
+      "condition": "Rainy",
+      "temp": 27,
+      "humidity": 75,
+      "pressure": 1003
+    },
+    {
+      "district": "Puttalam",
+      "condition": "Sunny",
+      "temp": 30,
+      "humidity": 55,
+      "pressure": 1010
+    },
+    {
+      "district": "Anuradhapura",
+      "condition": "Cloudy",
+      "temp": 28,
+      "humidity": 60,
+      "pressure": 1008
+    },
+    {
+      "district": "Polonnaruwa",
+      "condition": "Rainy",
+      "temp": 25,
+      "humidity": 70,
+      "pressure": 1005
+    },
+    {
+      "district": "Badulla",
+      "condition": "Sunny",
+      "temp": 32,
+      "humidity": 50,
+      "pressure": 1012
+    },
+    {
+      "district": "Monaragala",
+      "condition": "Cloudy",
+      "temp": 29,
+      "humidity": 65,
+      "pressure": 1010
+    },
+    {
+      "district": "Ratnapura",
+      "condition": "Rainy",
+      "temp": 27,
+      "humidity": 75,
+      "pressure": 1003
+    },
+    {
+      "district": "Kegalle",
+      "condition": "Sunny",
+      "temp": 30,
+      "humidity": 55,
+      "pressure": 1010
+    }
+  ]
+  
